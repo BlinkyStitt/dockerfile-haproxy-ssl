@@ -1,0 +1,8 @@
+# sort alphabetically by backendname, then domainname
+# domainname                    backendname
+
+example.com                     example.com
+www.example.com                 example.com
+
+example2.com                    example2.com
+www.example.com                 example2.com
