@@ -1,5 +1,7 @@
 # HAproxy + LetsEncrypt + SQRL
 
+**NOTE!** I've changed a lot since I first pushed this. I currently track everything in GitLab, but I'll mirror my updates here soon. I've changed this to using https://github.com/AnalogJ/lexicon/blob/master/examples/certbot.default.sh
+
 (the SQRL part doesn't work at all yet, but I'll finish that one day)
 
 Eventually I want to do something smart to automatically generate haproxy.cfg so that i can do cool stuff with autoscaling, but I don't need that right now. Hard coded works fine.
